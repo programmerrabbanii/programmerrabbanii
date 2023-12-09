@@ -1,7 +1,12 @@
 ![Rabbani Sarkar](https://github.com/programmerrabbanii/programmerrabbanii/assets/135486188/fd6c26d6-6b56-4ed0-b552-cb31fb0d8840)
 
 ## Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=programmerrabbanii&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=programmerrabbanii&theme=catppuccin-mocha)](https://git.io/streak-stats) 
+
+
+
+## 💻 Technologies that I know
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,firebase,mongodb)](https://skillicons.dev)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

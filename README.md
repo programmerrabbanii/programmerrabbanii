@@ -1,7 +1,22 @@
 ![Rabbani Sarkar](https://github.com/programmerrabbanii/programmerrabbanii/assets/135486188/fd6c26d6-6b56-4ed0-b552-cb31fb0d8840)
 
+## Hello, I'm Rabbani Sarkar! 👋
+
+I am a font developer i working with HTML Css  javascript react,I do different types of designs,I love to solve code error ,
+I love to learn and share what I learn with everyone,
+
+-  🚀 Current Focus: I am currently exploring and mastering the intricacies of javactipt and React to elevate my skills and create compelling user interfaces
+
+-  💻 Tech Stack: My toolkit includes HTML,CSS,Tailwind, React, JavaScript,  I believe in the power of clean code and am committed to staying current with industry best practices.
+
+-  🌐 Let's Connect: Excited about building the future of the web together! Feel free to explore my repositories and connect with me on LinkedIn or https://www.linkedin.com/in/rabbani-sarker-86ab60205/
+
+
 ## Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=programmerrabbanii&theme=catppuccin-mocha)](https://git.io/streak-stats) 
+
+## 📫 Reach me out
+
 
 
 

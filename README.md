@@ -15,11 +15,11 @@ I love to learn and share what I learn with everyone,
 
 -  💻 our curently made project
 
-  [Live Link]([https://explore-elite.web.app/](https://assingment-eleven.web.app/)
+  [Live Link](https://assingment-eleven.web.app/)
 
- [Live Link]([https://explore-elite.web.app/](https://assingmenttwelve.web.app/)
+ [Live Link](https://assingmenttwelve.web.app/)
 
- [Live Link]([https://explore-elite.web.app/](https://assingment-ten-256e0.web.app/)
+ [Live Link](https://assingment-ten-256e0.web.app/)
 
 
 

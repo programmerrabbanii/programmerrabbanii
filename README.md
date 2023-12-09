@@ -2,7 +2,7 @@
 
 ## Hello, I'm Rabbani Sarkar! 👋
 
-I am a font developer i working with HTML Css  javascript react,I do different types of designs,I love to solve code error ,
+I'm a frontend developer i working with HTML Css  javascript react,I do different types of designs,I love to solve code error ,
 I love to learn and share what I learn with everyone,
 
 -  🚀 Current Focus: I am currently exploring and mastering the intricacies of javactipt and React to elevate my skills and create compelling user interfaces

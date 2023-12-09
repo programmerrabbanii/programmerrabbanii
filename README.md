@@ -9,7 +9,7 @@ I love to learn and share what I learn with everyone,
 
 -  💻 Tech Stack: My toolkit includes HTML,CSS,Tailwind, React, JavaScript,  I believe in the power of clean code and am committed to staying current with industry best practices.
 
--  🌐 Let's Connect: Excited about building the future of the web together! Feel free to explore my repositories and connect with me on LinkedIn or https://www.linkedin.com/in/rabbani-sarker-86ab60205/
+-  🌐 Let's Connect: Excited about building the future of the web together! Feel free to explore my repositories and connect with me on LinkedIn  https://www.linkedin.com/in/rabbani-sarker-86ab60205/
 
 
 ## Current Stats
